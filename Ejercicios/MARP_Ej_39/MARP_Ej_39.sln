@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MARP_Ej_39", "MARP_Ej_39\MARP_Ej_39.vcxproj", "{8E475850-1FB9-4BFE-B8D4-78423FB783FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E475850-1FB9-4BFE-B8D4-78423FB783FF}.Debug|x64.ActiveCfg = Debug|x64
+		{8E475850-1FB9-4BFE-B8D4-78423FB783FF}.Debug|x64.Build.0 = Debug|x64
+		{8E475850-1FB9-4BFE-B8D4-78423FB783FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{8E475850-1FB9-4BFE-B8D4-78423FB783FF}.Debug|x86.Build.0 = Debug|Win32
+		{8E475850-1FB9-4BFE-B8D4-78423FB783FF}.Release|x64.ActiveCfg = Release|x64
+		{8E475850-1FB9-4BFE-B8D4-78423FB783FF}.Release|x64.Build.0 = Release|x64
+		{8E475850-1FB9-4BFE-B8D4-78423FB783FF}.Release|x86.ActiveCfg = Release|Win32
+		{8E475850-1FB9-4BFE-B8D4-78423FB783FF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58936031-FF06-4F77-A41E-B7FF5D4ACF0C}
+	EndGlobalSection
+EndGlobal
